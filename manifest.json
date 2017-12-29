@@ -1,0 +1,7 @@
+{
+    "name": "Custom Chrome Devtools Theme",
+    "version": "1.0.0",
+    "description": "Fork now and make changes to your css file to own Customizations",
+    "devtools_page": "devtools.html",
+    "manifest_version": 2
+}
